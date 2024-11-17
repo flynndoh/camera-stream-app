@@ -26,18 +26,15 @@ A simple Android application built with Kotlin and Android Studio to stream the 
 5. Open the URL in a browser or a media player (e.g., VLC) on a device connected to the same network.
 
 ## How to Access the Stream
-1. After starting the app, note the stream URL displayed at the bottom (e.g., `http://192.168.1.10:8080`).
+1. After starting the app, note the stream URL displayed at the bottom (e.g., `http://192.168.1.10:8080/stream`).
 2. Open the URL in:
    - A web browser for real-time viewing.
    - A media player like VLC for better playback experience.
 3. To stop streaming, tap the Stop Streaming button.
 
-
 ## Dependencies
 - AndroidX CameraX: For capturing the live camera feed.
 - NanoHTTPD: A lightweight web server for streaming.
-- ConstraintLayout: For responsive UI design.
-
 
 ## Known Limitations
 - Works only on devices connected to Wi-Fi or Ethernet. 
