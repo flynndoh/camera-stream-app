@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_streaming">Start Streaming</string>
+    <string name="stream_url_will_appear_here">Stream URL will appear here.</string>
+    <string name="cam_streamer">Cam Streamer</string>
+    <string name="camera_flip">Camera Flip</string>
+    <string name="front">Front</string>
+    <string name="back">Back</string>
+</resources>
